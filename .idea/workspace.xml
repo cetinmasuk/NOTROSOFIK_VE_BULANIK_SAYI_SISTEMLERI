@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f75529cb-43df-4783-9db4-444ede4b091e" name="Changes" comment="" />
+    <list default="true" id="f75529cb-43df-4783-9db4-444ede4b091e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AltmanZScoreCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AltmanZScoreCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,12 +113,25 @@
       <workItem from="1691669878558" duration="4134000" />
       <workItem from="1691689431622" duration="2405000" />
       <workItem from="1691731118422" duration="15311000" />
-      <workItem from="1692002461311" duration="631000" />
+      <workItem from="1692002461311" duration="3889000" />
     </task>
+    <task id="LOCAL-00001" summary="adding files">
+      <option name="closed" value="true" />
+      <created>1692003513859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692003513859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
